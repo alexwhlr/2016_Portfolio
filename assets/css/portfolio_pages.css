@@ -1,0 +1,33 @@
+
+@media(max-width:1920px){
+  #ge_work {
+    color:#fff;
+    padding-top:175px;
+    background-repeat: no-repeat;
+    background-image:url('../img/ge_blurred_dark.jpg');
+  }
+
+
+}
+
+@media (max-width: 991px){
+  #ge_work {
+    color:#fff;
+    padding-top:175px;
+    background-repeat: no-repeat;
+    background-image:none;
+    background-color:#01070a;
+  }
+}
+
+@media (max-width: 771px){
+  #ge_work{
+    color:#fff;
+    padding-top:100px;
+    background-repeat: no-repeat;
+    background-color:#01070a;
+  }
+}
+.navbar-default.navbar-expanded, .navbar-inverse.navbar-expanded{
+  background:#222222;
+}
